@@ -1,4 +1,4 @@
-# Soccer Player Analytics and Modeling Project
+# FIFA Player Data Analysis and Modeling Project
 
 **Author:** Christian Huerta  
 
